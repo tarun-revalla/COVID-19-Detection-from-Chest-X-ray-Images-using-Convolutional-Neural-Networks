@@ -1,8 +1,4 @@
-<p align="center"> 
-<a href="https://github.com/milaan9"><img src="https://img.shields.io/static/v1?logo=github&label=maintainer&message=milaan9&color=ff3300" alt="Last Commit"/></a> 
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmilaan9%2F/tree/main/001_Cervical_Cancer_Predection_with_ML&count_bg=%231DC92C&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=views&edge_flat=false"/></a>
-</p> 
-<!--<img src="https://badges.pufler.dev/contributors/milaan9/01_Python_Introduction?size=50&padding=5&bots=true" alt="milaan9"/>-->
+
 
 # Prediction of COVID-19 from Chest X-ray Images with CNN (Convolutional Neural Network)
 
@@ -49,15 +45,14 @@ Once Installed now we can import it inside our python code.
 
 You can <img src="https://img.shields.io/static/v1?label=%E2%AD%90 Star &message=if%20useful&style=style=flat&color=blue" alt="Star Badge"/> and <img src="https://img.shields.io/static/v1?label=%E2%B5%96 Fork &message=if%20useful&style=style=flat&color=blue" alt="Fork Badge"/> Starring and Forking is free for you, but it tells me and other people that it was helpful and you like this tutorial.
 
-Go [**`here`**](https://github.com/milaan9/93_Python_Data_Analytics_Projects) if you aren't here already and click ➞ **`✰ Star`** and **`ⵖ Fork`** button in the top right corner. You'll be asked to create a GitHub account if you don't already have one.
+Go [**`here`**](https://github.com/tarun-revalla/COVID-19-Detection-from-Chest-X-ray-Images-using-Convolutional-Neural-Networks) if you aren't here already and click ➞ **`✰ Star`** and **`ⵖ Fork`** button in the top right corner. You'll be asked to create a GitHub account if you don't already have one.
 
 ---
 
 ### How can I read this tutorial without an Internet connection? <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20vw" />
 
-1. Go [**`here`**](https://github.com/milaan9/93_Python_Data_Analytics_Projects) and click the big green ➞ **`Code`** button in the top right of the page, then click ➞ [**`Download ZIP`**](https://github.com/milaan9/93_Python_Data_Analytics_Projects/archive/refs/heads/main.zip).
+1. Go [**`here`**](https://github.com/tarun-revalla/COVID-19-Detection-from-Chest-X-ray-Images-using-Convolutional-Neural-Networks) and click the big green ➞ **`Code`** button in the top right of the page, then click ➞ [**`Download ZIP`**]
 
-    ![Download ZIP](https://github.com/milaan9/93_Python_Data_Analytics_Projects/blob/main/img/dnld_rep.png)
 
 2. Extract the ZIP and open it. Unfortunately I don't have any more specific instructions because how exactly this is done depends on which operating system you run.
     
